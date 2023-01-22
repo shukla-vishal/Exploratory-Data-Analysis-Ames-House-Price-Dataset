@@ -1,1 +1,3 @@
 # Exploratory-Data-Analysis-Ames-House-Price-Dataset
+
+The dataset details the sales of specific residential properties in Ames between 2006 and 2010 (a small town in Iowa, USA). The author is Dean De Cock. The dataset consist of 2930 rows and 82 columns which contain both nummerical and categorical data.The sale price depend on various variable like in which year it was built, new property or old one, area it withheld and many other factors. The dataset contains lot of categorical columns also which we can be convertted into binary using one hot encoding. By plotting the graphs we will visualise the relation between two factors and after cleaning the data will apply the linear regression technique in order to predict the sales price of the houses.
